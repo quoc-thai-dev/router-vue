@@ -1,0 +1,24 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Xoong",
+      "price": 123456
+    },
+    {
+      "id": 2,
+      "name": "Nồi",
+      "price": 223344
+    },
+    {
+      "id": 3,
+      "name": "Tủ lạnh",
+      "price": 696969
+    },
+    {
+      "id": 5,
+      "name": "Nồi cơm điện",
+      "price": 1233333
+    }
+  ]
+}
